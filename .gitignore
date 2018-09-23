@@ -2,7 +2,3 @@
 venv/
 __pycache__/
 test/__pycache__/
-
-latex/a2/
-latex/b2/
-latex/g2/
